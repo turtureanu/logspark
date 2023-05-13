@@ -1,0 +1,8 @@
+[x] Figure out how to use TOML for the configuration
+[x] Debug why when tailing the file we go over all the lines instead of just the last ones
+[x] Check for duplicate values in the configuration file
+[x] Throw an error if a regex is not specified
+[x] Handle log_file config option
+[-] Create a basic Cobra help screen
+  [x] Give up on the Cobra library in favor of 4 lines of code
+[ ] Handle log_file log rotation
